@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperTimer", "HyperTimer\HyperTimer.csproj", "{9B193E3F-6001-4F5E-8062-16A69FEFB820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperTimerTestConsole", "HyperTimerTest\HyperTimerTestConsole.csproj", "{0B182756-74F2-4058-8E56-6BB25379D5A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperTimer.Tests", "HyperTimer.Tests\HyperTimer.Tests.csproj", "{276F8C90-316D-495A-A6FA-4DFAD09C9955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B193E3F-6001-4F5E-8062-16A69FEFB820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B193E3F-6001-4F5E-8062-16A69FEFB820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B193E3F-6001-4F5E-8062-16A69FEFB820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B193E3F-6001-4F5E-8062-16A69FEFB820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B182756-74F2-4058-8E56-6BB25379D5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B182756-74F2-4058-8E56-6BB25379D5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B182756-74F2-4058-8E56-6BB25379D5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B182756-74F2-4058-8E56-6BB25379D5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{276F8C90-316D-495A-A6FA-4DFAD09C9955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276F8C90-316D-495A-A6FA-4DFAD09C9955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276F8C90-316D-495A-A6FA-4DFAD09C9955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276F8C90-316D-495A-A6FA-4DFAD09C9955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
